@@ -55,5 +55,5 @@ export default defineConfig({
       '@': path.resolve(__dirname, './src'),
     },
   },
-  base: '/pwa-test ',
+  base: '/pwa-mobile',
 });
