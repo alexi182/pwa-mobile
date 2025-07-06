@@ -1,0 +1,6 @@
+{
+  "REACT_APP_BASE_URL": "https://sdn101.iflex.ru",
+  "REACT_APP_PROD_URL": "https://api.miloserdieapp.ru",
+  "THEME_API": "https://sdn101.iflex.ru/api/metadata/metadata/styles",
+  "THEME_API_ACTIVE": false
+}
